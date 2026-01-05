@@ -121,16 +121,7 @@ Preview of the python library's documentation & research papers.
 - redux-thunk
 - uuid
 
-## Team Members
-
-- So this project is a group project done in collaboration with the members mentioned below.
-
-| Name            | Email-id                      |
-| :-------------- | :---------------------------- |
-| Shubham More    | `shubhamp1251@gmail.com`      |
-| Sameer Metkar   | `sameermetkar@gmail.com`      |
-| Omkar Mandavkar | `omkarmandavkar000@gmail.com` |
-| Durgesh Kolhe   | `dkolhe985@gmail.com`         |
+|
 
 ## Project Details
 
@@ -150,12 +141,7 @@ Preview of the python library's documentation & research papers.
 - **Check this document for project setup:** [SetUpDoc.docx](https://docs.google.com/document/d/1siwZjc0LJQgKTn__vtzs8tMfr9OElrsThmqmRJc9dHE/edit?usp=sharing)
 
 
-## Authors
 
-- [@shubham-more](https://github.com/shubhammore1251/)
-- [@sameer-metkar](https://github.com/sameermetkar/)
-- [@omkar-mandavkar](https://github.com/omkarmandavkar/)
-- [@durgesh-kolhe](https://github.com/Durgesh240)
 
 ## Acknowledgements
 
@@ -178,11 +164,5 @@ Preview of the python library's documentation & research papers.
 
 ![Dashboard Image](./public/screenshots/dasboard.jpeg)
 
-## Support
 
-For support, contact
-
-- email: shubhamp1251@gmail.com
-- LinkedIn: [Shubham More](https://www.linkedin.com/in/shubham-more1251/)
->>>>>>> c103df1 (5th-May-2023 commit)
 
