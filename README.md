@@ -9,7 +9,7 @@ Intellify – National Level Hackathon 3.0 by Marwadi University (MU), Gujarat
 <img width="30.9%" alt="SLT-frontend: Sign Language Translator Frontend logo" src="https://github.com/sign-language-translator/slt-frontend/blob/784d68a419e9c65c88129534b31dfbdd8270d456/public/logo512.png" />
 
 
----
+--
 
 ## Pages and Features
 
@@ -185,3 +185,4 @@ For support, contact
 - email: shubhamp1251@gmail.com
 - LinkedIn: [Shubham More](https://www.linkedin.com/in/shubham-more1251/)
 >>>>>>> c103df1 (5th-May-2023 commit)
+
