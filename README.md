@@ -48,22 +48,3 @@ Arrange sign dictionary videos into sequences and label them with equivalent spo
 | | ![parallel corpus](https://github.com/user-attachments/assets/e521f09b-6365-45e7-ae22-b5ae1feae809) |
 | :-: | :-: |
 | Design | Current |
-
-
-## Screenshots
-
-![Hello Image](./public/screenshots/Hello.jpg)
-
-![Meet Image](./public/screenshots/Meet.jpg)
-
-![Deaf Image](./public/screenshots/Deaf.jpg)
-
-![Bye Image](./public/screenshots/Bye.jpg)
-
-![D Image](./public/screenshots/D.jpg)
-
-![Dashboard Image](./public/screenshots/dasboard.jpeg)
-
-
-
-
